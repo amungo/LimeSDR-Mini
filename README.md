@@ -1,4 +1,4 @@
-# LimeSDR-Mini
+﻿# LimeSDR-Mini
 
 ![LimeSDR-Mini board](/images/LimeSDR-Mini_722w.jpg)
 
@@ -46,3 +46,5 @@ The directory structure is as follows:
 ## Licensing
 
 The hardware designs are licensed under a Creative Commons Attribution 3.0 Unported licence.
+
+HI
