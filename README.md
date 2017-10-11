@@ -27,7 +27,7 @@ The [LimeSDR-Mini](https://myriadrf.org/projects/limesdr/) board provides a hard
   * FPGA GPIO headers
   * FPGA JTAG connector
 * **Clock system:**
-  * 30.72 MHz onboard VCTCXO
+  * 10 MHz onboard VCTCXO
   * Possibility to tune VCTCXO with onboard DAC
   * External clock input via U.FL connector
 * **Board dimensions:** 69 mm x 31.4 mm
