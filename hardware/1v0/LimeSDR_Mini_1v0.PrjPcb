@@ -476,114 +476,122 @@ DocumentPath=Project Outputs for LimeSDR_Mini_1v0\BOM\LimeSDR_Mini_1v0_BOMr0.xls
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for LimeSDR_Mini_1v0\DRC\LimeSDR_Mini_1v0_Rounded.html
+DocumentPath=Project Outputs for LimeSDR_Mini_1v0\LimeSDR_Mini_1v0_Rounded.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for LimeSDR_Mini_1v0\NC Drill\LimeSDR_Mini_1v0_Rounded_panel-RoundHoles.TXT
+DocumentPath=Project Outputs for LimeSDR_Mini_1v0\DRC\LimeSDR_Mini_1v0_Rounded.html
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for LimeSDR_Mini_1v0\NC Drill\LimeSDR_Mini_1v0_Rounded_panel-SlotHoles.TXT
+DocumentPath=Project Outputs for LimeSDR_Mini_1v0\LimeSDR_Mini_1v0_Rounded.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for LimeSDR_Mini_1v0\NC Drill\LimeSDR_Mini_1v0_Rounded_panel.DRR
+DocumentPath=Project Outputs for LimeSDR_Mini_1v0\NC Drill\LimeSDR_Mini_1v0_Rounded_panel-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for LimeSDR_Mini_1v0\Gerber\LimeSDR_Mini_1v0_Rounded_panel.EXTREP
+DocumentPath=Project Outputs for LimeSDR_Mini_1v0\NC Drill\LimeSDR_Mini_1v0_Rounded_panel-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for LimeSDR_Mini_1v0\Gerber\LimeSDR_Mini_1v0_Rounded_panel.G1
+DocumentPath=Project Outputs for LimeSDR_Mini_1v0\NC Drill\LimeSDR_Mini_1v0_Rounded_panel.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for LimeSDR_Mini_1v0\Gerber\LimeSDR_Mini_1v0_Rounded_panel.G2
+DocumentPath=Project Outputs for LimeSDR_Mini_1v0\Gerber\LimeSDR_Mini_1v0_Rounded_panel.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for LimeSDR_Mini_1v0\Gerber\LimeSDR_Mini_1v0_Rounded_panel.G3
+DocumentPath=Project Outputs for LimeSDR_Mini_1v0\Gerber\LimeSDR_Mini_1v0_Rounded_panel.G1
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for LimeSDR_Mini_1v0\Gerber\LimeSDR_Mini_1v0_Rounded_panel.G4
+DocumentPath=Project Outputs for LimeSDR_Mini_1v0\Gerber\LimeSDR_Mini_1v0_Rounded_panel.G2
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for LimeSDR_Mini_1v0\Gerber\LimeSDR_Mini_1v0_Rounded_panel.G5
+DocumentPath=Project Outputs for LimeSDR_Mini_1v0\Gerber\LimeSDR_Mini_1v0_Rounded_panel.G3
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for LimeSDR_Mini_1v0\Gerber\LimeSDR_Mini_1v0_Rounded_panel.G6
+DocumentPath=Project Outputs for LimeSDR_Mini_1v0\Gerber\LimeSDR_Mini_1v0_Rounded_panel.G4
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for LimeSDR_Mini_1v0\Gerber\LimeSDR_Mini_1v0_Rounded_panel.GBL
+DocumentPath=Project Outputs for LimeSDR_Mini_1v0\Gerber\LimeSDR_Mini_1v0_Rounded_panel.G5
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for LimeSDR_Mini_1v0\Gerber\LimeSDR_Mini_1v0_Rounded_panel.GBO
+DocumentPath=Project Outputs for LimeSDR_Mini_1v0\Gerber\LimeSDR_Mini_1v0_Rounded_panel.G6
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for LimeSDR_Mini_1v0\Gerber\LimeSDR_Mini_1v0_Rounded_panel.GBP
+DocumentPath=Project Outputs for LimeSDR_Mini_1v0\Gerber\LimeSDR_Mini_1v0_Rounded_panel.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for LimeSDR_Mini_1v0\Gerber\LimeSDR_Mini_1v0_Rounded_panel.GBS
+DocumentPath=Project Outputs for LimeSDR_Mini_1v0\Gerber\LimeSDR_Mini_1v0_Rounded_panel.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for LimeSDR_Mini_1v0\Gerber\LimeSDR_Mini_1v0_Rounded_panel.GM1
+DocumentPath=Project Outputs for LimeSDR_Mini_1v0\Gerber\LimeSDR_Mini_1v0_Rounded_panel.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for LimeSDR_Mini_1v0\Gerber\LimeSDR_Mini_1v0_Rounded_panel.GM14
+DocumentPath=Project Outputs for LimeSDR_Mini_1v0\Gerber\LimeSDR_Mini_1v0_Rounded_panel.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for LimeSDR_Mini_1v0\Gerber\LimeSDR_Mini_1v0_Rounded_panel.GM15
+DocumentPath=Project Outputs for LimeSDR_Mini_1v0\Gerber\LimeSDR_Mini_1v0_Rounded_panel.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for LimeSDR_Mini_1v0\Gerber\LimeSDR_Mini_1v0_Rounded_panel.GPB
+DocumentPath=Project Outputs for LimeSDR_Mini_1v0\Gerber\LimeSDR_Mini_1v0_Rounded_panel.GM14
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for LimeSDR_Mini_1v0\Gerber\LimeSDR_Mini_1v0_Rounded_panel.GPT
+DocumentPath=Project Outputs for LimeSDR_Mini_1v0\Gerber\LimeSDR_Mini_1v0_Rounded_panel.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for LimeSDR_Mini_1v0\Gerber\LimeSDR_Mini_1v0_Rounded_panel.GTL
+DocumentPath=Project Outputs for LimeSDR_Mini_1v0\Gerber\LimeSDR_Mini_1v0_Rounded_panel.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for LimeSDR_Mini_1v0\Gerber\LimeSDR_Mini_1v0_Rounded_panel.GTO
+DocumentPath=Project Outputs for LimeSDR_Mini_1v0\Gerber\LimeSDR_Mini_1v0_Rounded_panel.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for LimeSDR_Mini_1v0\Gerber\LimeSDR_Mini_1v0_Rounded_panel.GTP
+DocumentPath=Project Outputs for LimeSDR_Mini_1v0\Gerber\LimeSDR_Mini_1v0_Rounded_panel.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for LimeSDR_Mini_1v0\Gerber\LimeSDR_Mini_1v0_Rounded_panel.GTS
+DocumentPath=Project Outputs for LimeSDR_Mini_1v0\Gerber\LimeSDR_Mini_1v0_Rounded_panel.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for LimeSDR_Mini_1v0\NC Drill\LimeSDR_Mini_1v0_Rounded_panel.LDP
+DocumentPath=Project Outputs for LimeSDR_Mini_1v0\Gerber\LimeSDR_Mini_1v0_Rounded_panel.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Outputs for LimeSDR_Mini_1v0\Gerber\LimeSDR_Mini_1v0_Rounded_panel.REP
+DocumentPath=Project Outputs for LimeSDR_Mini_1v0\Gerber\LimeSDR_Mini_1v0_Rounded_panel.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for LimeSDR_Mini_1v0\Gerber\LimeSDR_Mini_1v0_Rounded_panel.RUL
+DocumentPath=Project Outputs for LimeSDR_Mini_1v0\NC Drill\LimeSDR_Mini_1v0_Rounded_panel.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument31]
+DocumentPath=Project Outputs for LimeSDR_Mini_1v0\Gerber\LimeSDR_Mini_1v0_Rounded_panel.REP
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for LimeSDR_Mini_1v0\Gerber\LimeSDR_Mini_1v0_Rounded_panel.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument33]
 DocumentPath=Project Outputs for LimeSDR_Mini_1v0\Pick Place\Pick Place for LimeSDR_Mini_1v0_Rounded_panel.txt
 DItemRevisionGUID=
 
@@ -812,71 +820,73 @@ Name=Fabrication Outputs
 Description=
 TargetPrinter=FS-3140MFP+
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=Board Stack Report
-OutputName1=Report Board Stack
-OutputDocumentPath1=
+OutputType1=NC Drill
+OutputName1=NC Drill Files
+OutputDocumentPath1=C:\123456\hardware\1v0\PCB\LimeSDR_Mini_1v0_Rounded.PcbDoc
 OutputVariantName1=
 OutputDefault1=0
-PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType2=CompositeDrill
-OutputName2=Composite Drill Drawing
+Configuration1_Name1=OutputConfigurationParameter1
+Configuration1_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=4|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=KeepLeadingAndTrailingZeroes
+OutputType2=Mask
+OutputName2=Solder/Paste Mask Prints
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
 PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType3=Drill
-OutputName3=Drill Drawing/Guides
+OutputType3=IPC2581
+OutputName3=IPC-2581 Files
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
-PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType4=Final
-OutputName4=Final Artwork Prints
+OutputType4=Test Points
+OutputName4=Test Point Report
 OutputDocumentPath4=
-OutputVariantName4=[No Variations]
+OutputVariantName4=
 OutputDefault4=0
-PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType5=Gerber
-OutputName5=Gerber Files
+OutputType5=Plane
+OutputName5=Power-Plane Prints
 OutputDocumentPath5=
-OutputVariantName5=[No Variations]
+OutputVariantName5=
 OutputDefault5=0
-OutputType6=Gerber X2
-OutputName6=Gerber X2 Files
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType6=ODB
+OutputName6=ODB++ Files
 OutputDocumentPath6=
-OutputVariantName6=
+OutputVariantName6=[No Variations]
 OutputDefault6=0
-OutputType7=IPC2581
-OutputName7=IPC-2581 Files
+OutputType7=Drill
+OutputName7=Drill Drawing/Guides
 OutputDocumentPath7=
 OutputVariantName7=
 OutputDefault7=0
-OutputType8=Mask
-OutputName8=Solder/Paste Mask Prints
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType8=CompositeDrill
+OutputName8=Composite Drill Drawing
 OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType9=NC Drill
-OutputName9=NC Drill Files
+OutputType9=Board Stack Report
+OutputName9=Report Board Stack
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-OutputType10=ODB
-OutputName10=ODB++ Files
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType10=Gerber X2
+OutputName10=Gerber X2 Files
 OutputDocumentPath10=
-OutputVariantName10=[No Variations]
+OutputVariantName10=
 OutputDefault10=0
-OutputType11=Plane
-OutputName11=Power-Plane Prints
+OutputType11=Final
+OutputName11=Final Artwork Prints
 OutputDocumentPath11=
-OutputVariantName11=
+OutputVariantName11=[No Variations]
 OutputDefault11=0
 PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType12=Test Points
-OutputName12=Test Point Report
+OutputType12=Gerber
+OutputName12=Gerber Files
 OutputDocumentPath12=
-OutputVariantName12=
+OutputVariantName12=[No Variations]
 OutputDefault12=0
 
 [OutputGroup6]

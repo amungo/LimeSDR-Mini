@@ -1,10 +1,11 @@
-Output: Electrical Rules Check
-Type  : ERC
+Output: NC Drill Files
+Type  : NC Drill
 From  : Project [LimeSDR_Mini_1v0.PrjPcb]
-   Generated File[LimeSDR_Mini_1v0.html]
+   Generated File[LimeSDR_Mini_1v0_Rounded.LDP]
+   Generated File[LimeSDR_Mini_1v0_Rounded.DRR]
 
 
-Files Generated   : 1
+Files Generated   : 2
 Documents Printed : 0
 
-Finished Output Generation At 12:20:39 On 2017-09-22
+Finished Output Generation At 13:36:03 On 16.10.2017
